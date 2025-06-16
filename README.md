@@ -4,7 +4,7 @@
 
 ## Background of the Incident and Initial Response
 
-On September 3, 2024, a violent safety incident occurred at Wells Middle School involving my child, **Ky’vek Reynolds**. During class, another student (identified as Jayden) allegedly stabbed Ky’vek in the back with a sharpened pencil. This attack left my child physically injured and deeply shaken. We immediately reported the incident to school administration. However, the initial response from the school was **inadequate and alarmingly slow**:
+On September 3, 2024, a violent safety incident occurred at Wells Middle School involving my child, **Ky’vek Reynolds**. During class, another student (identified as Jayden) allegedly stabbed Ky’vek in the arm with a sharpened pencil. This attack left my child physically injured and deeply shaken. We immediately reported the incident to school administration. However, the initial response from the school was **inadequate and alarmingly slow**:
 
 * **No Immediate Investigation:** The Assistant Principal, Mr. Osita Ezeielo, admitted in a phone conversation that **no investigation had been initiated** in the day following the incident. Incredibly, the delay was attributed to a trivial clerical confusion – the offending student’s name wasn’t immediately found on the class roster due to a missing initial. It was only after **I provided the correct last-name initial** (during a recorded call) that the administrator was able to identify the student and begin looking into the matter. This oversight and lack of urgency in a serious assault case is *deeply troubling*.
 
