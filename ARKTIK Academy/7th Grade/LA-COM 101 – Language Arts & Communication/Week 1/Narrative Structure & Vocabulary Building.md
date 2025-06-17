@@ -105,7 +105,7 @@ Only students who pass this Production milestone advance to Week 2. Feedback and
 
 ---
 
-## <img src="../../../../assets/ARKTIK%20Logo.png" alt="ARKTIK Logo" width="20">v Teacher/Parent Guidance Notes (Hidden)
+## <img src="../../../../assets/ARKTIK%20Logo.png" alt="ARKTIK Logo" width="20"> Teacher/Parent Guidance Notes (Hidden)
 
 - Review each student’s work using the ARKTIK operational checklist.
 - Provide constructive, specific feedback—focus on structure, clarity, and vocabulary use.
