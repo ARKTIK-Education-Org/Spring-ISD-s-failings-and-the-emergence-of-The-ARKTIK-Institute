@@ -5,7 +5,7 @@
 
 ---
 
-### <img src="../../../../assets/ARKTIK%20Logo.png" alt="ARKTIK Logo" width="20"> Welcome to ARKTIK: Setting the Stage
+### Welcome to ARKTIK: Setting the Stage
 
 Welcome to your first week at The ARKTIK Institute!  
 This week, you’ll begin to see language as a tool for both storytelling and power—every word matters, and you’re building a foundation that will carry through every course.
@@ -19,7 +19,7 @@ This week, you’ll begin to see language as a tool for both storytelling and po
 
 ---
 
-## Week 1 Objectives
+## <img src="../../../../assets/ARKTIK%20Logo.png" alt="ARKTIK Logo" width="20"> Week 1 Objectives
 
 By the end of this week, you’ll be able to:
 - Identify the structure of a simple narrative
@@ -105,7 +105,7 @@ Only students who pass this Production milestone advance to Week 2. Feedback and
 
 ---
 
-## Teacher/Parent Guidance Notes (Hidden)
+## <img src="../../../../assets/ARKTIK%20Logo.png" alt="ARKTIK Logo" width="20">v Teacher/Parent Guidance Notes (Hidden)
 
 - Review each student’s work using the ARKTIK operational checklist.
 - Provide constructive, specific feedback—focus on structure, clarity, and vocabulary use.
