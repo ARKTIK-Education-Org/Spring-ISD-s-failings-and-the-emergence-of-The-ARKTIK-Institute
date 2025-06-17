@@ -1,0 +1,11 @@
+<img src="../../assets/ARKTIK%20Logo.png" alt="ARKTIK Logo" width="200">
+
+
+| Course Title                                     | Subject Area                           | Week 1 Theme                              | Tools Used                                    | Duration   | Age Range         | Assessment Criteria                                          |
+|--------------------------------------------------|----------------------------------------|-------------------------------------------|-----------------------------------------------|------------|-------------------|--------------------------------------------------------------|
+| LA-COM 101 – Language Arts & Communication        | Reading, Spelling, Grammar & Writing   | Narrative Structure & Vocabulary Building | ARKTIK LMS, 365 Word, Journal                 | 12 weeks   | Grades 6–7        | Weekly writing samples, vocabulary quizzes, peer review     |
+| MA-R 101 – Algebraic Foundations & Logic (GT)     | Mathematics                            | A.C.E. Orientation & Digital Workflow     | Microsoft 365, ARKTIK LMS, Planner           | 12 weeks   | Grades 6–7        | Weekly journals, midterm concept mastery, final project      |
+| HIST-CIV 101 – History & Citizenship              | Good Citizenship & Social Studies      | Foundations of Civic Engagement           | ARKTIK LMS, Discussion Forum                 | 10 weeks   | Grades 6–7        | Reflection essays, civic action plan, peer discussion        |
+| SCI-S 101 – Sustainable Systems & Inquiry         | Science                                | Introduction to Sustainability & Inquiry  | ARKTIK LMS, Field Notes                      | 8 weeks    | Grades 6–7        | Field journal, hypothesis testing, project report            |
+| FAITH-TORAH 101 – Hebrew & Torah Foundations      | Faith-Based Studies                    | Introduction to Ancient Hebrew & Torah Values | ARKTIK LMS, Scripture Reader             | 16 weeks   | All Ages (12+)    | Reflection journals, vocabulary quizzes, thematic essays     |
+| PE-KM 101 – Kita Hyōkai Martial Discipline        | Physical Education & Discipline        | Introduction to Kita Discipline           | ARKTIK LMS, Physical Demonstration, Video Analysis | 36 weeks | Grades 6–7        | Belt rank demonstrations, skill challenges, routine execution |
