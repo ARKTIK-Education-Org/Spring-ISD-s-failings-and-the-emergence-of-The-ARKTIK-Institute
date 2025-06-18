@@ -42,7 +42,7 @@ Venue is proper in Harris County under Texas Civil Practice & Remedies Code § 1
 
 3. Spring ISD failed to initiate an immediate investigation, failed to remove the aggressor, and failed to implement a signed, actionable safety plan, placing Ky’vek’s well-being and academic progress at ongoing risk.
 
-4. Plaintiff repeatedly communicated with district officials, including Ms. Lim, Mr. Buckley, and Congressman Crenshaw, from September 2024 through the end of the school year, seeking resolution and transparency. Not once during this period did Spring ISD or any party raise a credible concern about educational neglect or child endangerment.
+4. Plaintiff repeatedly communicated with district officials, including Ms. Lim, the district assistant superintendant,  Mr. Buckley ,the district’s General Counsel, snf the districts Director of Technology,from September 2024 through the end of the school year, seeking resolution and transparency. Not once during this period did Spring ISD or any party raise a credible concern about educational neglect or child endangerment.
 
 5. On or about February 2025, Plaintiff notified Spring ISD in writing of his intention to formally homeschool Ky’vek, and continued all communications in good faith. (See attached Declaration, Exhibit B.)
 
