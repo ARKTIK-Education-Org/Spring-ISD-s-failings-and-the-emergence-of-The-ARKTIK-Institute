@@ -24,7 +24,7 @@ Defendant.
 ### II. JURISDICTION AND VENUE
 
 3. This Court has **jurisdiction** under Texas Education Code section 25.093’s implementing procedures in section 25.0952, empowering the court to hear parent-contributing nonattendance matters and related mandamus actions ([statutes.capitol.texas.gov][1]).
-4. Venue is proper in \[County] County under Texas Civil Practice & Remedies Code § 15.002 because Spring ISD’s central administration is located here.
+4. Venue is proper in \Harris County under Texas Civil Practice & Remedies Code § 15.002 because Spring ISD’s central administration is located here.
 
 ### III. FACTUAL ALLEGATIONS
 
