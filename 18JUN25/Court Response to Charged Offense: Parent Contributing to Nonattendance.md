@@ -1,4 +1,4 @@
-<img src="../../assets/ARKTIK%20Logo.png" alt="ARKTIK Logo" width="200">
+<img src="../assets/ARKTIK%20Logo.png" alt="ARKTIK Logo" width="200">
 
 # Court Response to Charged Offense: Parent Contributing to Nonattendance
 
